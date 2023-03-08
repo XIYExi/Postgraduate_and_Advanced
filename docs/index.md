@@ -4,7 +4,7 @@ hero:
   desc: dumi site app example
   actions:
     - text: Postgraduate
-      link: /postgraduate
+      link: /postgraduate/软件工程/1生命周期
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: Feature 1
